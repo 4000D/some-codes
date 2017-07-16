@@ -1,5 +1,8 @@
-#include<iostream>
-#include<algorithm>
+#include <iostream>
+#include <algorithm>
+#include <vector>
+
+using namespace std;
 
 #define EPS 1e-03
 
