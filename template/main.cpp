@@ -4,7 +4,9 @@
 
 using namespace std;
 
-#define EPS 1e-03
+#define fn(n) for (int i = 0; i < n; i++)
+
+#define MOD 20130728
 
 int main(int argc, char const *argv[]) {
   /* code */
